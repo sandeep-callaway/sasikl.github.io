@@ -10,7 +10,7 @@
       "contentSlots": {
         "contentSlot": [
           {
-            "slotId": "Section2ASlot-Homepage",
+            "slotId": "subscription_banner-Homepage",
             "slotUuid": "eyJpdGVtSWQiOiJTZWN0aW9uMkFTbG90LUhvbWVwYWdlIiwiY2F0YWxvZ0lkIjoiY3BxQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
             "position": "Section2A",
             "name": "Section2A Slot for Homepage",
@@ -19,40 +19,23 @@
             "components": {
               "component": [
                 {
-                  "uid": "CpqHompagePowerDrillsBannerComponent",
+                  "uid": "subscription_banner",
                   "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlUG93ZXJEcmlsbHNCYW5uZXJDb21wb25lbnQiLCJjYXRhbG9nSWQiOiJjcHFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
                   "typeCode": "SimpleResponsiveBannerComponent",
                   "modifiedtime": "2023-10-03T23:03:18.575Z",
                   "name": "Cpq Homepage Power Drills Banner Component",
                   "container": false,
                   "synchronizationBlocked": false,
-                  "media": {
-                    "tablet": {
-                      "code": "Cpq_385x290_PowerDrills_EN_01_385W.jpg",
-                      "mime": "image/jpeg",
-                      "altText": "Power Drills",
-                      "url": "/medias/Cpq-385x290-PowerDrills-EN-01-385W.jpg?context=bWFzdGVyfGltYWdlc3wzOTcxMHxpbWFnZS9qcGVnfGFHRTNMMmd5Wmk4NE56azJNemcwT1RVeU16VXdMME53Y1Y4ek9EVjRNamt3WDFCdmQyVnlSSEpwYkd4elgwVk9YekF4WHpNNE5WY3VhbkJufDE4NWNlNDc2NDdlZDU2YTYyYjUxMTg1NjNjYjkyYjliMGZhMGEwM2RkOWU4ZDRiMjgwNWRhYmFiZjMzMjYzMDE"
-                    },
-                    "desktop": {
-                      "code": "Cpq_240x200_PowerDrills_EN_01_240W.jpg",
-                      "mime": "image/jpeg",
-                      "altText": "Power Drills",
-                      "url": "/medias/Cpq-240x200-PowerDrills-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3wyMTU5MXxpbWFnZS9qcGVnfGFETTJMMmhoTnk4NE56azJNemd6TlRRek16STJMME53Y1Y4eU5EQjRNakF3WDFCdmQyVnlSSEpwYkd4elgwVk9YekF4WHpJME1GY3VhbkJufDZlZmExYjJhYmE2Mjc0Y2FmNDZiZDY2NjlkYmMyYWI5YTdkZDg4ZWJlMzQyYjNhZjRhZmI4YjdkODEyYmQ3NjY"
-                    },
-                    "mobile": {
-                      "code": "Cpq_320x260_PowerDrills_EN_01_320W.jpg",
-                      "mime": "image/jpeg",
-                      "altText": "Power Drills",
-                      "url": "/medias/Cpq-320x260-PowerDrills-EN-01-320W.jpg?context=bWFzdGVyfGltYWdlc3wzMTY0NHxpbWFnZS9qcGVnfGFERXdMMmc1WkM4NE56azJNemd6T0RNNE1qTTRMME53Y1Y4ek1qQjRNall3WDFCdmQyVnlSSEpwYkd4elgwVk9YekF4WHpNeU1GY3VhbkJufDc1MzVhYmNlMjllNzE0YjViYTM4MTE5NjE4MWI1N2IxYzUyMzg0Y2Q3OTJmMGYzMzg2ZTM4ZjQwMDk1NmNhN2Y"
-                    },
-                    "widescreen": {
-                      "code": "Cpq_350x290_PowerDrills_EN_01_350W.jpg",
-                      "mime": "image/jpeg",
-                      "altText": "Power Drills",
-                      "url": "/medias/Cpq-350x290-PowerDrills-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wzNjY3MXxpbWFnZS9qcGVnfGFEQTFMMmcwTkM4NE56azJNemcwTXpZeU5USTJMME53Y1Y4ek5UQjRNamt3WDFCdmQyVnlSSEpwYkd4elgwVk9YekF4WHpNMU1GY3VhbkJufDdhMzljN2ZkM2I5MjI1NjFiY2ExMWY5YjJiYWEzNTVhNTgyM2U1MGM2NTJhMDFlMGRlZDUyYjRkZWI4ZDIxY2E"
-                    }
+                  "heading": "<h2>GET 20% OFF YOUR ORDER vgvg34</h2>",
+                  "_metadata": {
+                    "uid": "csc4cd56a8c045d667"
                   },
-                  "urlLink": "/Open-Catalogue/Tools/Power-Drills/c/1360"
+                  "main_content": "<span>Stay updated from TravisMathew on exclusive online and in-store offers, new product alerts, store events in your area and more. tgvttbnntt88999</span>",
+                  "email_field_label": "Capgemini",
+                  "button": {
+                    "title": "Join later",
+                    "href": "/"                 
+                  }                 
                 },
                 {
                   "uid": "CpqHompageAngleGrindersBannerComponent",
